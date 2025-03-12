@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi there, I'm Waseem Abu Nada! 👋</h1>
   <p>
-    <strong>Computer Engineering Student | Full Stack Web Developer</strong>
+    <strong>Computer Engineering | Full Stack Web Developer</strong>
   </p>
   <p>
    Studied at <strong>Al-Quds University - Abu Dis</strong>, currently enhancing my skills through
