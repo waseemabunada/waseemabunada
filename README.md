@@ -56,6 +56,15 @@ I'm always open to collaborating on exciting projects. If you have an idea or ne
 
 ---
 
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Bh-yahya&show_icons=true&theme=radical" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Bh-yahya&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ## 📬 How to Reach Me  
 📧 **Email**: [waseemabunada202@gmail.com](mailto:waseemabunada202@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/waseemabunada](https://linkedin.com/in/waseemabunada)  
