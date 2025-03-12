@@ -54,14 +54,6 @@ I'm always open to collaborating on exciting projects. If you have an idea or ne
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50px" /> -->
 </p>
 
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Bh-yahya&show_icons=true&theme=radical" alt="Ali's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Bh-yahya&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
